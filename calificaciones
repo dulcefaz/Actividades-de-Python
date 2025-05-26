@@ -1,0 +1,12 @@
+calificacion=float(input("Introduzca el  numero "))
+
+if calificacion >=90:
+    print("Excelente")
+elif  calificacion >=70:
+    print("Aprobado")
+elif calificacion  >=60:
+    print("Regular")
+else:
+    print("Reprobado")
+
+
