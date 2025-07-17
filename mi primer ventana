@@ -1,0 +1,11 @@
+import tkinter as tk
+
+ventana =tk.Tk()
+
+ventana.title(" Mi vida")
+
+ventana.geometry("500x200")
+
+ventana.configure(bg="purple")
+ventana.mainloop()
+
